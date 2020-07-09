@@ -6,3 +6,4 @@ print("It's a new day.")
 
 # To the data team!
 print("Great job today team! I am going to pass the torch to Thierno!!")
+print("Great team work everyone. Thank you all")
