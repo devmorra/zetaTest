@@ -1,5 +1,5 @@
 #python 3.6
-#open file specified by user: Team zeta use preproinsulin_seq.txt
+#open file specified by user: Team zeta use insulin.txt
 validFile = False
 while validFile == False:
     try:
