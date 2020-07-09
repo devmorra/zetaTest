@@ -1,8 +1,9 @@
 #python 3.6
-#open file specified by user
+#open file specified by user: Team zeta use preproinsulin_seq.txt
 validFile = False
 while validFile == False:
     try:
+        print("preproinsuilin_seq.txt is a provided sequence file")
         targetFile = open(input("Read from what sequence file?: "))
         validFile = True
     except:
