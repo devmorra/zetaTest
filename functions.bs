@@ -1,0 +1,15 @@
+#!/bin/bash
+month=1
+while [ $month -le 12 ]
+do
+        echo $month
+        ((month++))
+# add month
+list() {
+        echo $1 
+}
+list January
+done
+
+
+
