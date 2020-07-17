@@ -3,7 +3,7 @@
 validFile = False
 while validFile == False:
     try:
-        print("preproinsuilin_seq.txt is a provided sequence file")
+        print("insuilin.txt is a provided sequence file")
         targetFile = open(input("Read from what sequence file?: "))
         validFile = True
     except:
